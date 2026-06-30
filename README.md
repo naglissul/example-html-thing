@@ -18,4 +18,7 @@ https://www.typescriptlang.org/
 ```bash
 git clone https://github.com/naglissul/example-html-thing
 # Sukeliam failus i folderi su .git folderiu
+git add .
+git commit -m 'Intiial commit'
+git push
 ```
