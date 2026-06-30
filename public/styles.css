@@ -1,0 +1,20 @@
+body > h1 {
+    background-color: orange;
+}
+
+h1 {
+    background-color: red !important;
+    color: blue;
+}
+
+#paraGraph {
+    background-color: yellow;
+}
+
+.zalias-tekstas {
+    color: green;
+}
+
+.pabrauktas {
+    font-style: italic;
+}
